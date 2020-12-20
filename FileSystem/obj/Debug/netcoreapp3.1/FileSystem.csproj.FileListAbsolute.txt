@@ -1,9 +1,0 @@
-C:\Users\User\source\repos\NamespacesLesson\FileSystem\bin\Debug\netcoreapp3.1\FileSystem.deps.json
-C:\Users\User\source\repos\NamespacesLesson\FileSystem\bin\Debug\netcoreapp3.1\FileSystem.dll
-C:\Users\User\source\repos\NamespacesLesson\FileSystem\obj\Debug\netcoreapp3.1\FileSystem.csprojAssemblyReference.cache
-C:\Users\User\source\repos\NamespacesLesson\FileSystem\obj\Debug\netcoreapp3.1\FileSystem.AssemblyInfoInputs.cache
-C:\Users\User\source\repos\NamespacesLesson\FileSystem\obj\Debug\netcoreapp3.1\FileSystem.AssemblyInfo.cs
-C:\Users\User\source\repos\NamespacesLesson\FileSystem\bin\Debug\netcoreapp3.1\FileSystem.pdb
-C:\Users\User\source\repos\NamespacesLesson\FileSystem\obj\Debug\netcoreapp3.1\FileSystem.dll
-C:\Users\User\source\repos\NamespacesLesson\FileSystem\obj\Debug\netcoreapp3.1\FileSystem.pdb
-C:\Users\User\source\repos\NamespacesLesson\FileSystem\obj\Debug\netcoreapp3.1\FileSystem.csproj.CoreCompileInputs.cache
